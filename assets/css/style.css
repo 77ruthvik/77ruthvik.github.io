@@ -1379,3 +1379,18 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+.portfolio-head {
+  text-align: center;
+}
+
+.video {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.video-head {
+  font-size: 18px;
+  font-weight: bold;
+}
